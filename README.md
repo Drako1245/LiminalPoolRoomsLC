@@ -30,13 +30,13 @@ file will generate and you can tailor your experience to your liking or just lea
   (https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
 - Scoopy - Coding help and debugging  
   (https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
-- squirrelboydev - Code
+- squirrelboydev - Code  
   (https://thunderstore.io/c/lethal-company/p/squirrelboydev/OopsAllFlooded/)
-- Badham_Mods - Code
+- Badham_Mods - Code  
   (https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
-- IAmBatby - Lethal Level Loader
+- IAmBatby - Lethal Level Loader  
   (https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
-- Evaisa - LethalLib and HookGenPatcher
+- Evaisa - LethalLib and HookGenPatcher  
   (https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/, https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
 - And all of the friends we made along the way...
 
