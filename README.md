@@ -26,7 +26,7 @@ file will generate and you can tailor your experience to your liking or just lea
 - Evaisa's HookGenPatcher: https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/
 
 # Credits
-- Major - Coding, debugging, and teaching me almost everything about DunGen and modding lethal company
+- Major - Coding, debugging, and teaching me almost everything about DunGen and modding lethal company  
   (https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
 - Scoopy - Coding help and debugging  
   (https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
