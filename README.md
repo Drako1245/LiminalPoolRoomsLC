@@ -10,7 +10,15 @@ This mod adds a liminal pools themed dungeon to lethal company.
 Includes:
 - Functional water inside
 - Apparatus and light function
-- tbd
+- 13 Unique tiles
+
+Future Additions:
+- Ambient music
+- Improve pathing
+- Opening stinger
+- Alternate vents (?)
+- Improved water shader
+- Custom scrap (?)
 
 # Manual Installation
 First make sure you have BepInEx installed to your lethal company instance on steam, there
