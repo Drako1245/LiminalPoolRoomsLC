@@ -37,7 +37,8 @@ file will generate and you can tailor your experience to your liking or just lea
 - IAmBatby - Lethal Level Loader  
   (https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
 - Evaisa - LethalLib and HookGenPatcher  
-  (https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/, https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
+  (https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/,  
+  https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
 - And all of the friends we made along the way...
 
 Please go checkout all of their mods they are all fantastic modders and people!
