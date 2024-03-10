@@ -26,12 +26,12 @@ file will generate and you can tailor your experience to your liking or just lea
 - Evaisa's HookGenPatcher: https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/
 
 # Credits
-- Major - Coding, debugging, and teaching me almost everything about DunGen and modding lethal company (https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
-- Scoopy - Coding help and debugging (https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
-- squirrelboydev - Code (https://thunderstore.io/c/lethal-company/p/squirrelboydev/OopsAllFlooded/)
-- Badham_Mods - Code (https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
-- IAmBatby - Lethal Level Loader (https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
-- Evaisa - LethalLib and HookGenPatcher(https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/, https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
+- Major - Coding, debugging, and teaching me almost everything about DunGen and modding lethal company  (https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
+- Scoopy - Coding help and debugging  (https://thunderstore.io/c/lethal-company/p/scoopy/Scoopys_Variety_Mod/)
+- squirrelboydev - Code  (https://thunderstore.io/c/lethal-company/p/squirrelboydev/OopsAllFlooded/)
+- Badham_Mods - Code  (https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon/)
+- IAmBatby - Lethal Level Loader  (https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/)
+- Evaisa - LethalLib and HookGenPatcher  (https://thunderstore.io/c/lethal-company/p/Evaisa/LethalLib/, https://valheim.thunderstore.io/package/ValheimModding/HookGenPatcher/)
 - And all of the friends we made along the way...
 
 Please go checkout all of their mods they are all fantastic modders and people!
