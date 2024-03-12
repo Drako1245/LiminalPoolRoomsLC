@@ -1,7 +1,7 @@
 # Liminal Pool Dungeon for Lethal Company
 An interior mod for Lethal Company
 
-Not published to thunderstore yet, currently in playtest phase.
+Thunderstore: https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/
 
 If you are are curious about how I did anything, feel free to message me on discord: drako1245  
 I'm usually happy to help, but I am very inexperienced so I may not have the answer for everything  
