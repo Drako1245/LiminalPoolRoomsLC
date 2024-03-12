@@ -20,6 +20,10 @@ Future Additions:
 - Improved water shader
 - Custom scrap (?)
 
+Known Issues:
+- Turrets can sometimes shoot through walls
+- The water audio might be a bit too loud
+
 # Manual Installation
 First make sure you have BepInEx installed to your lethal company instance on steam, there
 are plenty of tutorials on youtube to figure out how to do that if you don't know how. Once
