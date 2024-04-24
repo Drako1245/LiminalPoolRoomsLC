@@ -11,6 +11,7 @@ Includes:
 - Functional water inside
 - Apparatus and light function
 - 13 Unique tiles
+- Breaker Boxes
 
 Future Additions:
 - Ambient music
@@ -19,14 +20,10 @@ Future Additions:
 - Alternate vents (?)
 - Improved water shader
 - Custom scrap (?)
-- Slide room (shhh)
 - Decorations to pools
-- "The Auspicious Ladder"
 
 Known Issues:
 - Doors in starting room can be locked
-- Config not working under certain conditions
-- Leaving the facility while in water makes you permanently "in water"
 
 ## Wanna support me?
 ![](https://i.imgur.com/Hlyjv6M.png)
