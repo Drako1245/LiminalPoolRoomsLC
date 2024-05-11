@@ -31,9 +31,9 @@ Known Issues:
 https://ko-fi.com/drako1245
 
 # Configuration
-Reading the config explains the config. There are detailed instructions in the config to guide you to
-configuring the mod correctly. By default, the interior appears on paid moons with a rarity of 200, but
-that is configurable.  
+Configuration can now be done through Lethal Level Loader!  
+To configure Liminal Pools, navigate to LethalLevelLoader.cfg in configs  
+Enable content configuration and modify values to be what you want  
 
 # Manual Installation
 First make sure you have BepInEx installed to your lethal company instance on steam, there
