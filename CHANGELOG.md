@@ -51,3 +51,18 @@
 - Fixed an issue with default configuration values
 - Fixed an issue with inverse teleporter teleporting you into Guam
 - Updated README.md a skosh
+
+# 1.0.9
+- Added custom apparatus
+- Added new rooms
+- Reworked water shader slightly
+- Fixed miscellanious bugs
+- Updated README.md
+
+# 1.0.10
+- Fixed an issue with fire exits in new tiles
+- Fixed a networking issue with the water
+
+# 1.0.11
+- Fixed a sync issue with apparatus
+- Started cooking a big one
