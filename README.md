@@ -2,28 +2,33 @@
 An interior mod for Lethal Company
 
 If you are are curious about how I did anything, feel free to message me on discord: drako1245  
-I'm usually happy to help, but I am very inexperienced so I may not have the answer for everything  
+Alternatively come chat in my discord thread in the LC Modding Discord: https://discord.com/channels/1168655651455639582/1216979536931979395  
+I'm always happy the answer questions!    
 
-Thunderstore link: https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/
+Thunderstore link: https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/  
+
 
 This mod adds a liminal pools themed dungeon to lethal company.
 Includes:
 - Functional water inside
-- Apparatus and light function
+- Custom apparatus and light function
 - 13 Unique tiles
-- Breaker Boxes
+- Breaker boxes
 
 Future Additions:
-- Ambient music
 - Improve pathing
-- Opening stinger
-- Alternate vents (?)
-- Improved water shader
+- Opening stinger (Priority)
+- Alternate vents 
+- Improved water shader (Priority)
 - Custom scrap (?)
 - Decorations to pools
+- More tiles (Priority)
 
 Known Issues:
 - Doors in starting room can be locked
+- Apparatus animations not playing
+- Apparatus lights not disappearing with others
+
 
 ## Wanna support me?
 ![](https://i.imgur.com/Hlyjv6M.png)
@@ -36,12 +41,10 @@ To configure Liminal Pools, navigate to LethalLevelLoader.cfg in configs
 Enable content configuration and modify values to be what you want  
 
 # Manual Installation
-First make sure you have BepInEx installed to your lethal company instance on steam, there
-are plenty of tutorials on youtube to figure out how to do that if you don't know how. Once
-you have that set up, install Evaisa's LethalLib mod, IAmBatby's LethalLevelLoader mod, and
-Evaisa's HookGenPatcher (This goes in patchers instead of plugins). Finally download 
-LiminalPools.zip and extract it into your plugins folder. Once it has been run once a config
-file will generate and you can tailor your experience to your liking or just leave it default.
+- Install BepInEx
+- Install the dependencies listed below (Make sure HookGenPatcher goes in patchers not plugins)
+- Download the .zip from releases on GitHub
+- Put everything from the .zip into plugins in a folder (be tidy please)
 
 # Dependencies
 - IAmBatby's LethalLevelLoader: https://thunderstore.io/c/lethal-company/p/IAmBatby/LethalLevelLoader/
@@ -49,6 +52,8 @@ file will generate and you can tailor your experience to your liking or just lea
 - Evaisa's HookGenPatcher: https://thunderstore.io/c/lethal-company/p/Evaisa/HookGenPatcher/
 
 # Credits
+- Unbox - Co-Creator, debugging, water shader assistance, coding help
+
 - Major - Coding, debugging, and teaching me almost everything about DunGen and modding lethal company  
   (https://thunderstore.io/c/lethal-company/p/Major_And_Skiz/MoreInteriors/)
 - Scoopy - Coding help and debugging  
@@ -65,3 +70,14 @@ file will generate and you can tailor your experience to your liking or just lea
 - And all of the friends we made along the way...
 
 Please go checkout all of their mods they are all fantastic modders and people!
+
+# Images
+![](https://i.imgur.com/IIAOKG4.png)
+
+![](https://i.imgur.com/sjeLg01.png)
+
+![](https://i.imgur.com/DgtDgTl.png)
+
+![](https://i.imgur.com/5yI21vP.png)
+
+![](https://i.imgur.com/KBUzcAB.png)
