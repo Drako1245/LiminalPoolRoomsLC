@@ -66,3 +66,7 @@
 # 1.0.11
 - Fixed a sync issue with apparatus
 - Started cooking a big one
+
+# 1.0.12
+- Fixed a few animation issues
+- Fixed a sync issue with lighting
