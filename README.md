@@ -17,7 +17,6 @@ Includes:
 
 Future Additions:
 - Improve pathing
-- Opening stinger (Priority)
 - Alternate vents 
 - Improved water shader (Priority)
 - Custom scrap (?)
@@ -26,8 +25,6 @@ Future Additions:
 
 Known Issues:
 - Doors in starting room can be locked
-- Apparatus animations not playing
-- Apparatus lights not disappearing with others
 
 
 ## Wanna support me?
