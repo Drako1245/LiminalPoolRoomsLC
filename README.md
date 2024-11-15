@@ -3,16 +3,13 @@ An interior mod for Lethal Company
 
 If you are are curious about how I did anything, feel free to message me on discord: drako1245  
 Alternatively come chat in my discord thread in the LC Modding Discord: https://discord.com/channels/1168655651455639582/1216979536931979395  
-I'm always happy the answer questions!    
+I'm always happy the answer questions!  
 
-Thunderstore link: https://thunderstore.io/c/lethal-company/p/theMenagerie/LiminalPools/  
-
-
-This mod adds a liminal pools themed dungeon to lethal company.
+This mod adds a Liminal Pools themed dungeon to lethal company.
 Includes:
-- Functional water inside
+- Functional high definition water inside
 - Custom apparatus and light function
-- 13 Unique tiles
+- 17 Unique tiles
 - Breaker boxes
 
 Future Additions:
@@ -25,6 +22,7 @@ Future Additions:
 
 Known Issues:
 - Doors in starting room can be locked
+- Lockpickers can appear on the opposite side of the door they are placed on
 
 
 ## Wanna support me?
