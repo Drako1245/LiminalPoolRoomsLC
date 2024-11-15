@@ -70,3 +70,18 @@
 # 1.0.12
 - Fixed a few animation issues
 - Fixed a sync issue with lighting
+
+# 1.0.13
+- Added reflections to water
+- Added refraction to water
+- Added reflections to tile
+- Added configuration options for reflections
+- Added accessibility options for people who can not smell (smeerJ)
+- Fixed door colliders
+- Fixed a bug with the breaker where it could spawn in the wall
+- Fixed a bug with apparatus causing it to despawn when the lobby closed
+- Fixed a bug with apparatus where grabbing it could soft lock your game
+- Fixed a bug with lockpickers not appearing in the correct position on doorways
+- Fixed apparatus room animations
+- Updated some colliders preventing enemies from pathing correctly
+- Updated dungeon scale
