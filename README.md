@@ -9,20 +9,18 @@ This mod adds a Liminal Pools themed dungeon to lethal company.
 Includes:
 - Functional high definition water inside
 - Custom apparatus and light function
-- 17 Unique tiles
+- 21 Unique tiles
 - Breaker boxes
 
 Future Additions:
 - Improve pathing
 - Alternate vents 
-- Improved water shader (Priority)
-- Custom scrap (?)
+- Improved water shader 
 - Decorations to pools
-- More tiles (Priority)
+- 1 more tile
 
 Known Issues:
-- Doors in starting room can be locked
-- Lockpickers can appear on the opposite side of the door they are placed on
+- All fixed :) lmk if you find any
 
 
 ## Wanna support me?
