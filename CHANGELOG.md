@@ -85,3 +85,27 @@
 - Fixed apparatus room animations
 - Updated some colliders preventing enemies from pathing correctly
 - Updated dungeon scale
+
+# 1.0.14
+- Added 'Slide' tile
+- Added config options for 'One Way Fire Exit'
+- Added config options for kill triggers in pits
+- Added a link between 'One Way Fire Exit' and bridge if config setting is set to 'lowered'
+- Fixed a bug with inverse teleporter teleporting players into deep water and objects
+- Fixed a bug with 'Massive Tile with Bridge' where certain doors would not be active
+
+# 1.0.15
+- Added 2 new tiles
+- Added water caustics
+- Removed an evil wizard causing me mild discomfort
+- Fixed some issues with nav mesh
+- Fixed a dependency issue
+- Fixed a bug with doors in the entrance tile being locked
+- Fixed some networking stuff (Thank you Zaggy and LordFirespeed <3)
+- Updated README.md
+- Updated to v81
+- Updated dungeon flow scaling and priority
+
+# 1.0.16
+- Fixed an issue with generation
+- Fixed an issue with CullFactory compatability
